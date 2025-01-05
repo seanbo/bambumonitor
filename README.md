@@ -6,6 +6,13 @@ Bambu Studio
 Microsoft Power Automate
 FFPlay (part of FFMpeg package)
 
+# External Links
+TP-Link Tapo C110 (not an affiliate link): https://www.amazon.com/TP-Link-Tapo-Security-Detection-C110/dp/B09YL5G1Y8/
+FFMpeg: https://www.ffmpeg.org/download.html
+Bambu Studio: https://github.com/bambulab/BambuStudio
+Microsoft Power Automate: https://learn.microsoft.com/en-us/power-automate/desktop-flows/install
+
+
 # Instructions
 **These instruction are based on a TP-Link Tapo camera but should work for any camera that provides an rtsp stream.
 **For this to work with a TP-Link Tapo camera, you will need to use the Tapo app to create a username and password for your camera under the settings for the camera once you have linked it to the app.
